@@ -5,3 +5,4 @@ deu certo
 vai dar certo
 AgoRA vai em 06-11-2022
 tem que ir
+git checkout

@@ -1,3 +1,14 @@
+<<<<<<< HEAD
 testando subir 
 subindo 01
 testando 02
+=======
+ola mundo
+git add "ola mundo"
+ola mundo mesmo!
+deu certo
+vai dar certo
+AgoRA vai em 06-11-2022
+tem que ir
+git checkout
+>>>>>>> 132597d62b3e3420a2fd64f32677dc80d4ff59cc
